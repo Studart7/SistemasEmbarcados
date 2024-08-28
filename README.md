@@ -1,1 +1,1 @@
-# Sistemas Embarcados - Terça-Feira 
+# Sistemas Embarcados - Terça-Feira -> Detector de colisão
