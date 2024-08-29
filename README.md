@@ -1,1 +1,3 @@
-# Sistemas Embarcados - Terça-Feira -> Detector de colisão
+# Projeto de Sistemas Embarcados - Quinta-Feira 
+
+## Projeto: Detector de Colisão 💥 🚗 
