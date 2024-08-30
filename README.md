@@ -5,7 +5,8 @@
 ### Requisitos funcionais do sistema 📝
 #### Comunicação e Acesso à Rede 📡
 - [ ] O sistema deve ser capaz de enviar e receber informações por meio de redes móveis (4G/5G) ou Wi-Fi.
- - [ ] O sistema deve permitir a comunicação direta com serviços de emergência através de chamadas telefônicas automáticas em caso de colisão grave.
+- [ ] O sistema deve permitir a comunicação direta com serviços de emergência através de chamadas telefônicas automáticas em caso de colisão grave.
+- [ ] O sistema utilizar o protoclo MQTT 
 
 #### Configurações Personalizáveis ⚙️
 - [ ] O sistema deve permitir ao usuário definir os contatos de emergência que serão notificados em caso de colisão.
