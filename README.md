@@ -31,3 +31,34 @@
 #### Tempo de Resposta ⏱️
 - [ ] O sistema deve ser capaz de detectar uma colisão e iniciar o processo de verificação dentro de milissegundos.
 - [ ] O sistema deve ligar após um timeout de 1 minuto se não obter nenhuma resposta.
+
+#### Documentação do aplicativo
+### Biblioteca
+https://developer.android.com/develop/sensors-and-location/sensors/sensors_overview?hl=pt-br
+
+- Acelerômetro
+- Giroscópio
+
+| Sensor                     | Tipo     | Descrição                                                                                  | Usos comuns                              |
+|---------------------------|----------|--------------------------------------------------------------------------------------------|------------------------------------------|
+| TYPE_ACCELEROMETER        | Hardware | Mede a força de aceleração em m/s² que é aplicada a um dispositivo todos os três eixos físicos (x, y e z), incluindo a força da gravidade. | Detecção de movimento (agitação, inclinação etc.). |
+| TYPE_AMBIENT_TEMPERATURE  | Hardware | Mede a temperatura ambiente em graus Celsius (°C). Veja a observação abaixo.               | Monitoramento das temperaturas do ar.   |
+
+
+#### Principais causas de acidente
+| As causas que provocam mais acidentes | As causas que provocam mais mortes |
+|---------------------------------------|------------------------------------|
+| Falta de atenção (22.537 acidentes)   | Desobediência à sinalização (1.552 mortes) |
+| Desobediência à sinalização (8.323 acidentes) | Falta de atenção (1.503 mortes) |
+| Excesso de velocidade (6.742 acidentes) | Excesso de velocidade (677 mortes) |
+| Não guardar distância segura (5.117 acidentes) | Ultrapassagem indevida (358 mortes) |
+| Ingestão de álcool (5.101 acidentes)  | Ingestão de álcool (279 mortes) |
+| Defeito no veículo (3.151 acidentes)  | Dormir na direção (227 mortes) |
+| Dormir na direção (2.311 acidentes)   | Não guardar distância segura (112 mortes) |
+| Ultrapassagem indevida (1.648 acidentes) | Defeito no veículo (112 mortes) |
+| Defeito na via (1.474 acidentes)      | Defeito na via (74 mortes) |
+| Animais na pista (1.213 acidentes)    | Animais na pista (51 mortes) |
+
+
+
+
